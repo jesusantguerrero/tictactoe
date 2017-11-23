@@ -1,5 +1,5 @@
 # Tic Tac Toe
-###The clasic X and O Game
+### The clasic X and O Game
 I made this project as a part of my freeCodeCamp front-end certification and in order to complete the challenge 
 I had to fulfill the following user stories:
 
